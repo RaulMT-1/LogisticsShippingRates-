@@ -1,5 +1,5 @@
 # LogisticsShippingRates-
-plaintext
+Plaintext:
 Please consider the below factors while contributing
 
 Code Style:
